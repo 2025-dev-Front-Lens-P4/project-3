@@ -54,11 +54,14 @@ Ce brief s'inscrit dans une logique de production :
 ---
 
 ## ✅ Critères de performance
-- Au moins un test unitaire écrit et fonctionnel
-- CI opérationnelle (tests lancés automatiquement à chaque push)
-- Pas d’erreurs bloquantes au lint
-- README clair et à jour
-- Explication des choix techniques
+
+| Critère           | Description                                                                 |
+| ----------------- | --------------------------------------------------------------------------- |
+| 🧪 Tests          | Un ou plusieurs tests unitaires sont présents et fonctionnels               |
+| 🧹 Lint & Format  | Le projet passe sans erreur les outils de linting et formatage              |
+| ⚙️ CI             | Une intégration continue est mise en place (ex. GitHub Actions)             |
+| 📄 README         | Un README documente les outils de qualité utilisés et les résultats obtenus |
+| 🚀 Performance    | Un audit Lighthouse a été réalisé et une amélioration a été apportée        |
 
 ---
 
