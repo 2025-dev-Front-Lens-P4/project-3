@@ -73,7 +73,7 @@ Ce brief s'inscrit dans une logique de production :
 - [Prettier](https://prettier.io/)
 - [GitHub Actions](https://docs.github.com/en/actions)
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/)
-- 
+
 ---
 
 ## ✍️ Auteurs / contributeurs
