@@ -17,9 +17,9 @@ Ce brief s'inscrit dans une logique de production :
 ---
 
 ## 👩‍💻 Compétences visées
-- C3 : Contrôler l'exécution du code source à l’aide de tests et d’analyses statiques
-- C4 : Automatiser les tests unitaires et les analyses statiques avec des outils d’intégration continue
-- C5 : Concevoir un processus de livraison continue via des outils d’automatisation
+- **C3** : Contrôler l'exécution du code source à l’aide de tests et d’analyses statiques — niveau 3
+- **C4** : Automatiser les tests unitaires et les analyses statiques avec des outils d’intégration continue — niveau 3
+- **C5** : Concevoir un processus de livraison continue via des outils d’automatisation — niveau 3
 
 ---
 
