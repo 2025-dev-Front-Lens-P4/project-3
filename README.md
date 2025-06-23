@@ -1,6 +1,6 @@
 # 📦 Test, qualité & bonnes pratiques
 
-## 🎯 Objectif
+## 🎯 Objectif pédagogique
 L'objectif est de **mettre en place des outils de tests**, de **s'assurer de la qualité du code**, et de **préparer le projet à la mise en production** selon les standards attendus en entreprise.
 
 ---
