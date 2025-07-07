@@ -67,8 +67,6 @@ Ce brief s'inscrit dans une logique de production :
 ---
 
 ## 🔗 Ressources utiles
-- [Jest](https://jestjs.io/)
-- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 - [Vitest](https://vitest.dev/)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
