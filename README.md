@@ -5,8 +5,6 @@
 ## 🎯 Objectif pédagogique
 L'objectif est de **mettre en place des outils de tests**, de **s'assurer de la qualité du code**, et de **préparer le projet à la mise en production** selon les standards attendus en entreprise.
 
----
-
 ## 🧭 Contexte du projet
 Vous avez désormais un MVP (Minimum Viable Product) de votre application codée avec React. Il est temps d’adopter une posture plus professionnelle et de renforcer la fiabilité de votre code.
 
@@ -16,14 +14,10 @@ Ce brief s'inscrit dans une logique de production :
 - **analyse des performances**,
 - **préparation à l’intégration continue**.
 
----
-
 ## 👩‍💻 Compétences visées
 - **C3** : Contrôler l'exécution du code source à l’aide de tests et d’analyses statiques — niveau 3
 - **C4** : Automatiser les tests unitaires et les analyses statiques avec des outils d’intégration continue — niveau 3
 - **C5** : Concevoir un processus de livraison continue via des outils d’automatisation — niveau 3
-
----
 
 ## 📚 Modalités pédagogiques
 
@@ -40,8 +34,6 @@ Ce brief s'inscrit dans une logique de production :
 ## ⏳ Deadline
 4 jours ouvrés
 
----
-
 ## 📦 Livrables attendus
 - Un dépôt GitHub public avec :
   - une branche `main` stable
@@ -51,8 +43,6 @@ Ce brief s'inscrit dans une logique de production :
   - Comment lancer les tests
   - Quelle librairie de tests a été choisie
   - Les résultats/perfs de Lighthouse
-
----
 
 ## ✅ Critères de performance
 
@@ -64,16 +54,12 @@ Ce brief s'inscrit dans une logique de production :
 | 📄 README         | Un README documente les outils de qualité utilisés et les résultats obtenus |
 | 🚀 Performance    | Un audit Lighthouse a été réalisé et une amélioration a été apportée        |
 
----
-
 ## 🔗 Ressources utiles
 - [Vitest](https://vitest.dev/)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [GitHub Actions](https://docs.github.com/en/actions)
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/)
-
----
 
 ## ✍️ Auteurs / contributeurs
 
