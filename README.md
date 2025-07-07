@@ -46,7 +46,6 @@ Ce brief s'inscrit dans une logique de production :
 - Un dépôt GitHub public avec :
   - une branche `main` stable
   - des tests présents et fonctionnels
-  - un fichier `.eslintrc` et/ou `.prettierrc`
   - un fichier `.github/workflows/ci.yml` pour GitHub Actions
 - Un README mis à jour expliquant :
   - Comment lancer les tests
